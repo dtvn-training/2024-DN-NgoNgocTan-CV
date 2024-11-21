@@ -189,6 +189,7 @@ h3 {
     }
     #header .right-part {
         background-color: #00b9b0;
+        width: 100%;
     }
     .fullname, .job-title {
         color: rgb(231, 253, 255);
